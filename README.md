@@ -1,17 +1,15 @@
-# Responsive Portfolio Website
+## Responsive Portfolio Website
+
+
+>>>>>>> 
+![preview img](/preview.png)
 
 >>>>>>> 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
 - Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
->>>>>>> 
-![preview img](/preview.png)
-
-# [Personal portfolio website](https://yassine-rodani.info)
-
+  
 ## ✨ Abstract
 
 When it comes to proving yourself professionally, documentation that provides proof of your accomplishments or samples of your work is crucial. Portfolios are a great way to demonstrate the competencies you would list on a resume or talk about in an interview — they allow you to ***show*** and not just ***tell***.

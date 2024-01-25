@@ -1201,7 +1201,7 @@ width: 90%;
   }
 
   .services__container{
-    grid-template-columns: repeat(2, 248px);
+    grid-template-columns: max-content;
     justify-content: center;
   }
 

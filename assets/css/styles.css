@@ -1284,7 +1284,7 @@ width: 90%;
   }
 
   .services__container{
-    grid-template-columns: max-content;
+    grid-template-columns: repeat(3, 238px);
   }
 
   .portfolio__content{

@@ -29,7 +29,7 @@ This project involves building a responsive personal portfolio website that effe
 
 ## 💡 Deployment
 
-You can access the website [here](https://sushantkrsky.me/).
+You can access the website [here](https://sushantkrsky.github.io/).
 
 ## 💬 Contact
 
